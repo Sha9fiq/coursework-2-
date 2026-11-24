@@ -1,0 +1,3 @@
+alice,$2b$12$QM0rBC0qD1GH2Svd7ZUBOeQs6pDBvSsDB7oBn/A9G7vUl1Xb4kmn.
+bob,$2b$12$gIlINSmuaTx0.yY1MFVfDuw4qPjaA35zGX/mXdotku0JOLpHxYLYe
+charlie,$2b$12$NoNWNa2Y3f6k98hhVA0qd.E14hapXvdWi0PMG2mZ8OPxvGxsadtMO
